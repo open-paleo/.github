@@ -2,7 +2,7 @@
 
 A community-maintained, version-controlled phylogenetic dataset for paleontology.
 
-Open Paleo builds a structured, machine-readable dataset of paleontological taxonomy — rooted at **Life** and broad enough to accommodate any fossil taxon. All data is backed by published scientific literature, curated through structured contribution workflows, and validated by automated tooling.
+Open Paleo builds a structured, machine-readable dataset of paleontological taxonomy — rooted at **Life** and broad enough to accommodate any fossil taxon. All data is backed by published scientific literature, reviewed by maintainers, and validated by automated tooling.
 
 ## Repositories
 
@@ -13,7 +13,7 @@ Open Paleo builds a structured, machine-readable dataset of paleontological taxo
 
 ## Contributing
 
-We welcome contributions from paleontologists, enthusiasts, and anyone interested in open science. The easiest way to get started is through our [contribution wizard](https://open-paleo.github.io/data/) or the structured [issue forms](https://github.com/open-paleo/data/issues/new/choose) in the data repository.
+We welcome contributions from paleontologists, enthusiasts, and anyone interested in open science. To contribute, open a pull request in the [data repository](https://github.com/open-paleo/data) that edits its YAML files directly; [CONTRIBUTING.md](https://github.com/open-paleo/data/blob/main/CONTRIBUTING.md) sets out the standards a change must meet. To report an error or ask a question, [open an issue](https://github.com/open-paleo/data/issues/new).
 
 No institutional affiliation or special tools required — just a GitHub account and a published reference.
 
