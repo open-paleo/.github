@@ -9,6 +9,7 @@ Open Paleo builds a structured, machine-readable dataset of paleontological taxo
 | Repository | Description |
 |------------|-------------|
 | [**data**](https://github.com/open-paleo/data) | The dataset — genus and clade files, phylogenetic tree, build scripts, and output files (JSON, YAML, Newick, NEXUS, BibTeX) |
+| [**corpus**](https://github.com/open-paleo/corpus) | Tools to build your own searchable library of the papers the dataset cites — fetching open-access PDFs, converting them to Markdown, full-text search, and a browser view of each paper beside its PDF. Ships code only, no papers |
 
 ## Contributing
 
@@ -18,4 +19,4 @@ No institutional affiliation or special tools required — just a GitHub account
 
 ## License
 
-All data is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt the data for any purpose, including commercial use, as long as you provide appropriate attribution.
+All data is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt the data for any purpose, including commercial use, as long as you provide appropriate attribution. The corpus tools are licensed under the [MIT License](https://github.com/open-paleo/corpus/blob/main/LICENSE).
