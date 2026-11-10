@@ -16,7 +16,7 @@ Browse the dataset at **[open-paleo.org](https://open-paleo.org)**: a page for e
 
 ## Contributing
 
-We welcome contributions from paleontologists, enthusiasts, and anyone interested in open science. To contribute, open a pull request in the [data repository](https://github.com/open-paleo/data) that edits its YAML files directly; [CONTRIBUTING.md](https://github.com/open-paleo/data/blob/main/CONTRIBUTING.md) sets out the standards a change must meet. To report an error or ask a question, [open an issue](https://github.com/open-paleo/data/issues/new).
+We welcome contributions from paleontologists, enthusiasts, and anyone interested in open science. To contribute, open a pull request in the [data repository](https://github.com/open-paleo/data) that edits its YAML files directly; [CONTRIBUTING.md](https://github.com/open-paleo/data/blob/main/CONTRIBUTING.md) sets out the standards a change must meet. To report a value that does not match the published literature, use the [Report an error](https://github.com/open-paleo/data/issues/new?template=correction.yml) form; for anything else, [open an issue](https://github.com/open-paleo/data/issues/new).
 
 No institutional affiliation or special tools required — just a GitHub account and a published reference.
 
